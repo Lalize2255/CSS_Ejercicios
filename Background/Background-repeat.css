@@ -1,0 +1,9 @@
+body 
+{
+background-image:url('descarga.jpg');
+background-repeat:repeat
+}
+/* SI QUEREMOS QUE LA IMAGEN NOS SALGA HORIZONTALME UTILIZAMOS background-repeat:repeat-X;
+PARA QUE LA IMAGEN SALGA VERTICALMENTE UTILIZQMOS background-repeat:repeat-Y
+Y SI QUEREMOS QUE NO SE REPITA Y SALGA EN FORMATO NORMAL COMO SE DESCARGO USAMOS background-repeat:no-repeat
+*/

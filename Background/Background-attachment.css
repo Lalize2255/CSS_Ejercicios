@@ -1,0 +1,8 @@
+body
+{ 
+background-image: url('images.jpg');
+background-repeat: no-repeat;
+background-attachment: scroll
+}
+/* AQUI SCROLL DESPLAZA A LA IMAGEN CUNADO MOVEMOS LA BARRA 
+Y SI USAMOS background-attachment: fixed EL TEXTO SE DESPLAZA PERO LA IMAGEN QUEDA FIJA.
